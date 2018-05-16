@@ -1,2 +1,1 @@
-# Python
-Proyectos en Python
+Python-Gnerador Random Lotería
